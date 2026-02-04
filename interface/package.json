@@ -10,7 +10,7 @@
     "material-ui-popup-state": "^1.4.0",
     "moment": "^2.24.0",
     "notistack": "^0.8.6",
-    "npm": "^6.9.0",
+    "npm": "^11.9.0",
     "prop-types": "^15.7.2",
     "rc-progress": "^2.5.1",
     "rc-slider": "^8.6.13",
